@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>NumberImagine/数字1.png</file>
+        <file>NumberImagine/数字2.png</file>
+        <file>NumberImagine/数字3.png</file>
+        <file>NumberImagine/数字4.png</file>
+        <file>NumberImagine/数字5.png</file>
+        <file>NumberImagine/数字6.png</file>
+        <file>NumberImagine/数字7.png</file>
+        <file>NumberImagine/数字8.png</file>
+        <file>NumberImagine/数字9.png</file>
+        <file>NumberImagine/数字10.png</file>
+        <file>NumberImagine/数字11.png</file>
+        <file>NumberImagine/数字12.png</file>
+        <file>NumberImagine/数字13.png</file>
+        <file>NumberImagine/数字14.png</file>
+        <file>NumberImagine/数字15.png</file>
+        <file>NumberImagine/数字16.png</file>
+        <file>NumberImagine/数字17.png</file>
+        <file>NumberImagine/数字18.png</file>
+        <file>NumberImagine/数字19.png</file>
+        <file>NumberImagine/数字20.png</file>
+    </qresource>
+</RCC>
